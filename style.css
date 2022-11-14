@@ -1,0 +1,27 @@
+body {
+				семейство шрифтов: "Microsoft Yahei";
+			}
+			.StandardTd {
+				height: 70px;
+				width: 100px;
+				font-size: 35px;
+			}
+
+			.BigTd {
+				height: 70px;
+				width: 100%;
+				font-size: 35px
+			}
+			
+			.Table {
+				height: 350px;
+				margin-left: 50px;
+			}
+			
+			.Input {
+				height: 90px; width: 395px; font-size: 50px;text-align: right;padding-right: 10px;
+			}
+			.control{
+				padding-left: 50px;
+				padding-right: 50px;
+			}
